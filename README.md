@@ -4,7 +4,7 @@ Public installation files and signed update metadata for BridgeDrop.
 The application source repository remains private. No GitHub login is required.
 
 Download the Windows installer, Linux AppImage or Android APK from Releases.
-Install desktop 0.15.0 / Android 0.8.0 once to enable automatic update checks
+Install desktop 0.16.0 / Android 0.9.0 once to enable automatic update checks
 and downloads. Existing connections and permissions are retained.
 
 Windows input-service updates require the normal administrator approval.
@@ -18,6 +18,6 @@ Only installers, binaries, notices and update verification data belong here.
 Do not upload source code, private keys, tokens, device identities or test data.
 ## Current downloads
 
-- [Windows 0.15.0 installer](https://github.com/devAboss/BridgeDrop-Releases/releases/download/v0.15.0/BridgeDrop-0.15.0-windows-x64-Setup.exe)
-- [Linux 0.15.0 AppImage](https://github.com/devAboss/BridgeDrop-Releases/releases/download/v0.15.0/BridgeDrop-0.15.0-linux-x86_64.AppImage)
-- [Android 0.8.0 APK](https://github.com/devAboss/BridgeDrop-Releases/releases/download/android-v0.8.0/BridgeDrop-0.8.0-android.apk)
+- [Windows 0.16.0 installer](https://github.com/devAboss/BridgeDrop-Releases/releases/download/v0.16.0/BridgeDrop-0.16.0-windows-x64-Setup.exe)
+- [Linux 0.16.0 AppImage](https://github.com/devAboss/BridgeDrop-Releases/releases/download/v0.16.0/BridgeDrop-0.16.0-linux-x86_64.AppImage)
+- [Android 0.9.0 APK](https://github.com/devAboss/BridgeDrop-Releases/releases/download/android-v0.9.0/BridgeDrop-0.9.0-android.apk)
