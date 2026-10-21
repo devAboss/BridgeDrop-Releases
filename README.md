@@ -19,5 +19,5 @@ Do not upload source code, private keys, tokens, device identities or test data.
 ## Current downloads
 
 - [Windows 0.18.2 installer](https://github.com/devAboss/BridgeDrop-Releases/releases/download/v0.18.2/BridgeDrop-0.18.2-windows-x64-Setup.exe)
-- [Linux 0.19.2 AppImage](https://github.com/devAboss/BridgeDrop-Releases/releases/download/v0.19.2/BridgeDrop-0.19.2-linux-x86_64.AppImage)
+- [Linux 0.19.3 AppImage](https://github.com/devAboss/BridgeDrop-Releases/releases/download/v0.19.3/BridgeDrop-0.19.3-linux-x86_64.AppImage)
 - [Android 0.11.3 APK](https://github.com/devAboss/BridgeDrop-Releases/releases/download/android-v0.11.3/BridgeDrop-0.11.3-android.apk)
