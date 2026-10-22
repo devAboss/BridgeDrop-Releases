@@ -18,6 +18,6 @@ Only installers, binaries, notices and update verification data belong here.
 Do not upload source code, private keys, tokens, device identities or test data.
 ## Current downloads
 
-- [Windows 0.20.3](https://github.com/devAboss/BridgeDrop-Releases/releases/download/v0.20.3/BridgeDrop-0.20.3-windows-x64-Setup.exe)
-- [Linux 0.20.3](https://github.com/devAboss/BridgeDrop-Releases/releases/download/v0.20.3/BridgeDrop-0.20.3-linux-x86_64.AppImage)
-- [Android 0.20.3](https://github.com/devAboss/BridgeDrop-Releases/releases/download/v0.20.3/BridgeDrop-0.20.3-android.apk)
+- [Windows 0.21.0](https://github.com/devAboss/BridgeDrop-Releases/releases/download/v0.21.0/BridgeDrop-0.21.0-windows-x64-Setup.exe)
+- [Linux 0.21.0](https://github.com/devAboss/BridgeDrop-Releases/releases/download/v0.21.0/BridgeDrop-0.21.0-linux-x86_64.AppImage)
+- [Android 0.21.0](https://github.com/devAboss/BridgeDrop-Releases/releases/download/v0.21.0/BridgeDrop-0.21.0-android.apk)
